@@ -1,26 +1,30 @@
 [
   {
+    "id": 1,
     "title": "Você sabia?",
     "description": "Mulheres colecionam conquistas históricas no futebol, vejo oito delas neste 8 de março",
     "image": "https://raw.githubusercontent.com/digitalinnovationone/soccer-news-api/main/images/1.jpg",
     "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/06/24/pia-diz-que-precisou-de-coragem-para-fazer-mudancas-na-selecao-feminina.ghtml"
   },
   {
+    "id": 2,
     "title": "Natascha e Duda Sampaio",
     "description": "Natascha e Duda Sampaio são chamadas para a Copa América após cortes de Letícia Izidoro e Gabi Nunes",
-    "image": "https://s2.glbimg.com/Bkc2p9mxWqY06Hbj-gzyTzblvMo=/0x0:2048x1365/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/S/W/II9D5BRUq6qIS0Z7yRdA/50517354333-f7de1e9b2f-k.jpg",
+    "image": "https://raw.githubusercontent.com/digitalinnovationone/soccer-news-api/main/images/2.jpg",
     "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/07/03/natascha-e-duda-sampaio-sao-chamadas-para-a-copa-america-apos-cortes-de-leticia-izidoro-e-gabi-nunes.ghtml" 
   },
   {
+    "id": 3,
     "title": "Otimismo",
     "description": "Apesar de derrotas, Pia mantém confiança na seleção: Estaremos prontas para a Copa América",
-    "image": "https://s2.glbimg.com/wmcL-AepoH6nWCsF_akH7V7LJCQ=/0x0:1024x683/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/Z/5/UrETmJQRS7vudaNbOMMA/gettyimages-1241592073.jpg",
+    "image": "https://raw.githubusercontent.com/digitalinnovationone/soccer-news-api/main/images/3.jpg",
     "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/06/28/apesar-de-derrotas-pia-mantem-confianca-na-selecao-estaremos-prontas-para-a-copa-america.ghtml"
   },
   {
+    "id": 4,
     "title": "Real feminino comemora goleada",
     "description": "O técnico Paulo Eduardo e a zagueira Amanda falaram com o ge.globo/ro sobre após goleada sobre o Iranduba-AM",
-    "image": "https://s2.glbimg.com/M2q_6t7b1Ly5J78-4Y6Eq3O-2HI=/272x0:1280x958/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2021/g/2/Ia56a2QUWnAQid6gbYzQ/whatsapp-image-2021-06-18-at-17.19.56.jpeg",
+    "image": "https://raw.githubusercontent.com/digitalinnovationone/soccer-news-api/main/images/4.jpg",
     "link": "https://ge.globo.com/ro/futebol/times/real-desportivo/noticia/2022/07/04/real-feminino-comemora-goleada-sobre-o-iranduba-elas-fizeram-os-gols-que-tinham-que-fazer.ghtml"
   }
 ]
